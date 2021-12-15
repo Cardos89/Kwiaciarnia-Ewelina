@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-image: url(./img/background.png);
+    background-repeat: repeat-y;
+    background-size: 100%;
+}
+
+main {
+    background-color: #fff1eb;
+}
+
+footer {
+    background-color: #fff1eb;
+}
